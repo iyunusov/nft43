@@ -1,0 +1,26 @@
+{
+  "name": "weare3",
+  "version": "1.0.0",
+  "description": " digital platform where one could obtain information ",
+  "main": "index.js",
+  "scripts": {
+    "watch": "parcel --port=8080 src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "trees"
+  ],
+  "author": "Islomzhon Yunusov, Farrukh Okhunov, Zahra Abdulla",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.15.4",
+    "react-redux": "^7.2.5",
+    "redux": "^4.1.1",
+    "styled-components": "^5.3.1"
+  }
+}
